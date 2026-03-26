@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.db
+/db/
+*.index
+*.pkl
+*.pt
+*.pth
+.DS_Store
