@@ -26,11 +26,6 @@ ISC only:
 python build_index.py --isc-only
 ```
 
-Simple fallback (no CLIP/ISC):
-
-```bash
-python build_index.py --simple
-```
 
 ## Search
 
