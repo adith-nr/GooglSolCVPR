@@ -1,7 +1,6 @@
 # MediaShield
 
-Image similarity indexing and search using CLIP and ISC features, with a simple fallback mode.
-
+Image similarity indexing and search using CLIP and ISC features
 ## Setup
 
 Create a virtual environment and install dependencies:
